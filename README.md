@@ -2,7 +2,7 @@
 
 Code in support of this post: [The Simpsons by the Data](http://toddwschneider.com/posts/the-simpsons-by-the-data/)
 
-It's a Rails app, but isn't intended to be run as a server. It processes data from [Simpsons World](http://www.simpsonsworld.com/), [Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Simpsons_episodes), and [IMDb](http://www.imdb.com/title/tt0096697/eprate), and populates a PostgreSQL database called `simpsons_development`. The database contains 4 primary tables: episodes, script_lines, characters, and locations
+It's a Rails app, but isn't intended to be run as a server. It processes data from [Simpsons World](http://www.simpsonsworld.com/), [Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Simpsons_episodes), and [IMDb](http://www.imdb.com/title/tt0096697/eprate), and populates a PostgreSQL database called `simpsons_development`. The database contains 4 primary tables: `episodes`, `script_lines`, `characters`, and `locations`
 
 ## Instructions
 
