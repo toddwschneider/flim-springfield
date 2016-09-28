@@ -52,7 +52,7 @@ name_mapping = c(
   "Mayor Joe Quimby" = "Mayor Quimby",
   "Professor Jonathan Frink" = "Professor Frink",
   "Kearney Zzyzwicz" = "Kearney",
-  "HERB" = "Herb Simpson",
+  "HERB" = "Herb Powell",
   "DOLPH" = "Dolph",
   "Captain Horatio McCallister" = "Captain McCallister"
 )
