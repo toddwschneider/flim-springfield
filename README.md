@@ -28,5 +28,6 @@ R code to analyze the data lives in the `analysis/` folder
 - I deduped some character names when they're printed in different ways, e.g. "TROY" is the same as "Troy McClure", but I certainly did not dedupe all 6000+ characters that appear in the scripts
 - Similarly I manually assigned genders to the top 320 or so characters, who collectively account for 86% of the show's dialogue
 - I did not dedupe any locations
+- Simpsons World is not available in all countries, so the code might not run depending on where you're located
 
 ![tab](https://cloud.githubusercontent.com/assets/70271/18603957/9c00df58-7c44-11e6-8222-6073565db089.png)
