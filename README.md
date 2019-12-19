@@ -1,3 +1,9 @@
+# RIP Simpsons World
+
+*The Simpsons* have moved from Simpsons World to Disney+, so the code in this repo no longer works
+
+![RIP](https://user-images.githubusercontent.com/70271/71186052-8a36e880-224a-11ea-852a-3c40a3f5fe37.png)
+
 # The Simpsons by the Data
 
 Code in support of this post: [The Simpsons by the Data](https://toddwschneider.com/posts/the-simpsons-by-the-data/)
